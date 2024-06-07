@@ -1,5 +1,5 @@
 # Even and odds
-
+Pass some numbers as arguments, and it will return whether each one of them is even or odd.
 
 ![image](https://github.com/FireguiQueen/Evens-and-odds/assets/98475125/8a7cf2d5-aa9a-40c5-b820-3f11908f781b)
 
